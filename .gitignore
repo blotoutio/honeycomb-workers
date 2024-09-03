@@ -106,3 +106,7 @@ dist
 examples/worker/.dev.vars
 */.dev.vars
 examples/queue/.dev.vars
+
+
+# Editors
+.idea
